@@ -25,3 +25,7 @@ These tools are used by millions of developers and tens of thousands of organiza
 Check our awesome [community forum](https://community.sonarsource.com).
 
 We're usually hiring: https://www.sonarsource.com/company/careers/
+
+Notable entries:
+- C# Developer
+- .NET Ecosystem Product Manager
