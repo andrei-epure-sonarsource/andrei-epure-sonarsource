@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a software developer in the Languages Team at @SonarSource
+
+We create [SonarQube](https://www.sonarqube.org/), [SonarCloud](https://sonarcloud.io/) and [SonarLint](https://www.sonarsource.com/products/sonarlint/), tools which millions of developers and tens of thousands of organizations use to deliver better, more secure software.
+
+Check our awesome [community forum](https://community.sonarsource.com).
+
+We're usually hiring: https://www.sonarsource.com/company/careers/
