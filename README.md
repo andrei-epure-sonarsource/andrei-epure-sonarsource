@@ -28,4 +28,4 @@ We're usually hiring: https://www.sonarsource.com/company/careers/
 
 Notable entries:
 - C# Developer
-- .NET Ecosystem Product Manager
+- .NET Ecosystem Product Manager (listed as Language Ecosystem Product Manager)
