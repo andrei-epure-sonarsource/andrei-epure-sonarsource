@@ -30,3 +30,7 @@ Notable entries:
 - C# Developer
 - .NET Developer Advocate
 - .NET Ecosystem Product Manager (listed as Language Ecosystem Product Manager)
+
+The resources from my talk on NuGet supply chain attacks are:
+- on my blog: https://andreiepure.ro/2022/08/28/dotnetday-resources.html
+- on my personal GitHub: https://github.com/andreiepure/DependencyConfusionDemo
