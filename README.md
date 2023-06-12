@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software developer in the Languages Team at @SonarSource. We develop the code analyzers that power our awesome products:
+I am an Engineering Manager in the Languages Team at @SonarSource. We develop the code analyzers that power our awesome products:
 - [SonarQube](https://www.sonarqube.org/) - on-prem analysis (has a free Community edition)
 - [SonarCloud](https://sonarcloud.io/) - SaaS (free for open-source)
 - [SonarLint](https://www.sonarsource.com/products/sonarlint/) - IDE plugins, free for everyone :smile: 
