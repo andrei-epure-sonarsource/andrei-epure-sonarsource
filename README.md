@@ -27,3 +27,5 @@ Check our awesome [community forum](https://community.sonarsource.com).
 The resources from my talk on NuGet supply chain attacks are:
 - on my blog: https://andreiepure.ro/2022/08/28/dotnetday-resources.html
 - on my personal GitHub: https://github.com/andreiepure/DependencyConfusionDemo
+
+Speaker profile: https://sessionize.com/andrei-epure/
