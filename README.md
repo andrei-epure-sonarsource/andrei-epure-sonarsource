@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an Engineering Manager in the Languages Team at @SonarSource. We develop the code analyzers that power our awesome products:
-- [SonarQube](https://www.sonarqube.org/) - on-prem analysis (has a free Community edition)
-- [SonarCloud](https://sonarcloud.io/) - SaaS (free for open-source)
-- [SonarLint](https://www.sonarsource.com/products/sonarlint/) - IDE plugins, free for everyone :smile: 
+I am an Engineering Manager in the Code Orchestration Team at @SonarSource. 
+Before that, I worked for more than six years on the code analyzers that power our awesome products:
+- [SonarQube Server](https://www.sonarqube.org/) - on-prem analysis (has a free Community Build edition)
+- [SonarQube Cloud](https://sonarcloud.io/) - SaaS (free for open-source)
+- [SonarQube for the IDE](https://www.sonarsource.com/products/sonarlint/) - IDE plugins, free for everyone :smile: 
 
 These tools are used by millions of developers and tens of thousands of organizations use to deliver cleaner, more secure code.
 
