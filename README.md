@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an Engineering Manager in the Code Orchestration Team at @SonarSource. 
+I am an ~Engineering Manager~ Software Engineer in the Code Orchestration Team at @SonarSource. 
 Before that, I worked for more than six years on the code analyzers that power our awesome products:
 - [SonarQube Server](https://www.sonarqube.org/) - on-prem analysis (has a free Community Build edition)
 - [SonarQube Cloud](https://sonarcloud.io/) - SaaS (free for open-source)
